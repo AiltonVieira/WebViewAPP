@@ -23,9 +23,10 @@ by course delivery.
 Screenshot \
 Demo.\
 \
-![](https://raw.githubusercontent.com/AiltonVieira/WebViewAPP/master/app/src/main/res/drawable/logo.png)\
-____________\
-
+<img src="https://raw.githubusercontent.com/AiltonVieira/WebViewAPP/master/Screenshots/first.jpeg" height="320" width="180">
+<img src="https://raw.githubusercontent.com/AiltonVieira/WebViewAPP/master/Screenshots/second.jpeg" height="320" width="180">\
+____________
+\
 \
 Contributing \
 Não continuaremos o desenvolvimento do APP, deixando apenas como produto final de um curso e utilizado como referências.\
